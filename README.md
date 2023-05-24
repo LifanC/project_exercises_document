@@ -1,8 +1,8 @@
 # project_exercises_document
 一開始畫面
-![image](https://github.com/LifanC/project_exercises_document/blob/master/1.png)
+![image](https://github.com/LifanC/project_exercises_document/blob/master/1開始.png)
 展開畫面
-![image](https://github.com/LifanC/project_exercises_document/blob/master/3.png)
+![image](https://github.com/LifanC/project_exercises_document/blob/master/3展開.png)
 新增畫面
 ![image](https://github.com/LifanC/project_exercises_document/blob/master/4新增.png)
 刪除畫面
