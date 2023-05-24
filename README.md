@@ -1,6 +1,9 @@
 # project_exercises_document
 網頁呈現 -> 畫面顯示.md
 
+# [前端](https://github.com/LifanC/project_exercises_client)
+# [後端](https://github.com/LifanC/project_exercises_server)
+
 1.新增匯率<br>
 2.新增客戶資料<br>
 3.查詢客戶資料<br>
