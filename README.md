@@ -5,6 +5,8 @@
 <br>
 3.網頁呈現 -> TOEIC顯示隨機單字.md
 <br>
+4.網頁呈現 -> 政府資料開放平台.md
+<br>
 # [前端](https://github.com/LifanC/project_exercises_client)
 # [後端](https://github.com/LifanC/project_exercises_server)
 <br>
@@ -21,5 +23,8 @@
 1.查詢UBike(台北市)立即更新版<br>
 
 (3)
-2.TOEIC顯示隨機單字<br>
+1.TOEIC顯示隨機單字<br>
+
+(4)
+1.政府資料開放平台<br>
 
