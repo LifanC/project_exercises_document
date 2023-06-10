@@ -7,6 +7,8 @@
 <br>
 4.網頁呈現 -> 政府資料開放平台.md
 <br>
+5.網頁呈現 -> 登入登出.md
+<br>
 # [前端](https://github.com/LifanC/project_exercises_client)
 # [後端](https://github.com/LifanC/project_exercises_server)
 <br>
@@ -27,4 +29,8 @@
 
 (4)
 1.政府資料開放平台<br>
+
+(5)
+1.登入登出<br>
+2.用Redis存取UserName<br>
 
